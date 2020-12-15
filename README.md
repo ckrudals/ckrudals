@@ -4,9 +4,12 @@ Im High school student and app developer
 ```
 <br>
 <br>
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ckrudals)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckrudals&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ckrudals)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
 <p><aligin="center">
    <img src="https://img.shields.io/badge/language-kotlin-blue?style"/>
     <img src="https://img.shields.io/badge/language-java-blue?style"/>
