@@ -7,6 +7,8 @@ Im High school student and app developer
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ckrudals)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+<br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckrudals&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><aligin="center">
