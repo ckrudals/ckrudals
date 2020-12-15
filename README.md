@@ -1,4 +1,4 @@
-# 차경민
+# welcom my github
 <h1>  Hi :pray: im High school student app developer</h1>
 <br>
 
