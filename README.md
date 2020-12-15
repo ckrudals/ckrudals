@@ -1,5 +1,7 @@
 # Welcome :pray: my github
-<h1> Im High school student and app developer</h1>
+```txt
+Im High school student and app developer
+```
 <br>
 
 
