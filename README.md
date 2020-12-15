@@ -2,7 +2,7 @@
 <h1> Im High school student app developer</h1>
 <br>
 
-
+![ckrudals's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <p align="center">
    <img src="https://img.shields.io/badge/language-kotlin-blue?style"/>
     <img src="https://img.shields.io/badge/language-java-blue?style"/>
