@@ -1,5 +1,5 @@
-# welcom my github
-<h1>  Hi :pray: im High school student app developer</h1>
+# Welcom :pray: my github
+<h1> im High school student app developer</h1>
 <br>
 
 
