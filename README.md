@@ -1,7 +1,5 @@
 # Welcome :wave: my github
-```txt
 
-```
 <br>
 <br>
    
