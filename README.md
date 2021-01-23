@@ -1,6 +1,6 @@
 # Welcome :wave: my github
 ```txt
-Im High school student and app developer
+
 ```
 <br>
 <br>
