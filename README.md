@@ -1,7 +1,7 @@
 # Welcome :wave: my github
 
-<br>
-<br>
+![ChaKyungMin](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChaKyungMin&fontSize=90)
+   
    
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ckrudals)](https://github.com/anuraghazra/github-readme-stats)
 
