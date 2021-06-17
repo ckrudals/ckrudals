@@ -15,7 +15,7 @@
 
 Good day!
 
-I am an Android developer. I'm interested in recent tech stacks, mvvm and dagger -hilt, and enjoy interacting and collaborating with my teammates.
+I am an Android developer. I'm interested in the latest tech stacks, mvvm and dagger-hilt, and enjoy interacting and collaborating with my teammates.
 
 If you want to contact me, please leave me a message!
 
