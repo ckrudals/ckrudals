@@ -3,7 +3,9 @@
  
 </div>  
 
-
+  <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ckrudals&fontSize=70" />
+</p>
 
 <br/>  
 
@@ -54,10 +56,11 @@ If you want to contact me, please leave me a message!
 
 ## Here are some ideas to get you started 🎈:
 
+<h4>
 
 - 🔭 I’m currently working on : 
 
-  The Movie, Tita, SmartMeal
+  The Movie, Tita, SmartMill
 
 - 🌱 I’m currently learning ...
 
@@ -66,10 +69,10 @@ If you want to contact me, please leave me a message!
 - 📫 How to reach me: goodluckplz820@gmail.com
 
 - ⚡ Fun fact: i'm in high school
-
+</h4>
 <br>
 
-## 😎 Github Stats  
+## Github Stats  👨
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ckrudals&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
