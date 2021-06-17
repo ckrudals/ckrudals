@@ -57,7 +57,7 @@ If you want to contact me, please leave me a message!
 
 - 🔭 I’m currently working on : 
 
-  The Movie, Tita, SmartMill
+  The Movie, Tita, SmartMeal
 
 - 🌱 I’m currently learning ...
 
