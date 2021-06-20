@@ -62,7 +62,7 @@ If you want to contact me, please leave me a message!
 
   The Movie, Tita, SmartMill
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ..
 
     MVVM, Dagger-Hilt, DataBinding, coroutine
 
