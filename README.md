@@ -84,10 +84,3 @@ If you want to contact me, please leave me a message!
 </td></tr></table>  
 
 
-
-### 🌱 My Contributions
-
-<p align="center">
-
-![](https://ghchart.rshah.org/ckrudals )
-</p>
