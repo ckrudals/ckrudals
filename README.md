@@ -49,11 +49,6 @@ If you want to contact me, please leave me a message!
 
 
 
-
-
-
-
-
 ## Here are some ideas to get you started 🎈:
 
 <h4>
@@ -72,5 +67,5 @@ If you want to contact me, please leave me a message!
 </h4>
 <br>
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=ckrudals#1" width="100%">
 
