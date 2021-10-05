@@ -46,21 +46,6 @@ If you want to contact me, please leave me a message!
 
 
 
-## Here are some ideas to get you started 🎈:
 
-<h4>
-
-- 🔭 I’m currently working on : 
-
-  The Movie, Tita, SmartMill, Everything-of-PL
-
-- 🌱 I’m currently learning ..
-
-    MVVM, Dagger-Hilt, DataBinding, coroutine
-
-- 📫 How to reach me: goodluckplz820@gmail.com
-
-- ⚡ Fun fact: i'm in high school
-</h4>
 <br>
 
