@@ -18,7 +18,7 @@ I am an Android developer. I'm interested in the latest tech stacks, mvvm and da
 
 If you want to contact me, please leave me a message! 
 
-<a href="https://marred-mammal-f85.notion.site/aecac84553884663b6d401055d3bcee3"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https%3A%2F%2Fwww.notion.so%2FGSMYunsung-ee5e591c0b174b2c984aa50df84fd137"></a>
+<a href="https://marred-mammal-f85.notion.site/aecac84553884663b6d401055d3bcee3"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=Notion&logo=Notion&style=social&url=https://www.notion.so/aecac84553884663b6d401055d3bcee3"></a>
 
 <br>
 
