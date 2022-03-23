@@ -18,8 +18,7 @@ I am an Android developer. I'm interested in the latest tech stacks, mvi and koi
 
 If you want to contact me, please leave me a message! 
 
- <a href="https://www.notion.so/aecac84553884663b6d401055d3bcee3"><img alt="Twitter" src="https://img.shields.io/twitter/url?label=portfolio&logo=Notion&style=social&url=https://www.notion.so/aecac84553884663b6d401055d3bcee37"></a>
-</a>
+
 
 ### 💪 Skills
 <h3 align="center">🌳 Tech Stack 🌳</h3>
